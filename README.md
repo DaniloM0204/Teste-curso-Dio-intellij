@@ -1,3 +1,4 @@
 # Teste-curso-Dio-intellij
 
-This exercise have the intuit to show my frist programs in the Java language
+This repository it's a place were i'll be posting my exercises to practice the Java language.
+By the way, all exercises placed here, are for myself studying.
