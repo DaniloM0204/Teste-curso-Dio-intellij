@@ -8,6 +8,7 @@ public class PrimeiroPrograma {
         System.out.println(gato);
 
         Livro Livro1 = new Livro("O problema dos 3 corpos", 300);
+        boolean livro1 = true;
         System.out.println(livro1);
         int a = 5;
         int b = 3;
