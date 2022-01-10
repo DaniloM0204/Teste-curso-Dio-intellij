@@ -7,7 +7,8 @@ public class Main {
         //Áreas
         System.out.println("Exercício Área");
         Areas.Quadrado(3);
-        Areas.Retangulo(5,5);
+        Areas.Retangulo(5d,5d);
         Areas.Trapezio(7,8,9);
+        Areas.Losango(5f,5f);
     }
 }
