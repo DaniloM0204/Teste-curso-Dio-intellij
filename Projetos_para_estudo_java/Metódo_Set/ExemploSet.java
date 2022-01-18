@@ -31,7 +31,7 @@ public class ExemploSet {
         notas.remove(0d);
         System.out.println(notas);
 
-        System.out.println("Remov as nots menores que 7 e exiba a lista: ");
+        System.out.println("Remova as notas menores que 7 e exiba a lista: ");
         Iterator<Double> iterator1 = notas.iterator();
         while (iterator1.hasNext()){
             Double next = iterator1.next();

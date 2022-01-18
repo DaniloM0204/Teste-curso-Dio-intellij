@@ -7,7 +7,6 @@ Série 1 = Nome: dark, genero: drama, tempoEpisodio : 60
 Série 1 = Nome: that 70s show, genero: comédia, tempoEpisodio : 25
  */
 
-import javax.crypto.spec.PSource;
 import java.util.*;
 
 public class ExemploOrdenacaoSet {
